@@ -10,7 +10,7 @@ set -euo pipefail
 # Usage: ./scan-local-network.sh
 
 # Constants
-SCAN_SUBNET="192.168.0.0/22"  # Subnet to scan
+SCAN_SUBNET="192.168.0.0/24"  # Subnet to scan
 TAB=$'\t'
 
 # Function to display ASCII art
