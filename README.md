@@ -28,7 +28,7 @@ A bash script that scans your local network for active hosts and retrieves detai
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/local-network-scanner.git
+   git clone https://github.com/beecave-homelab/scan-local-network.git
    ```
 
 2. Make the script executable:
